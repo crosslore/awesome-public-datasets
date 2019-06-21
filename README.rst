@@ -142,6 +142,8 @@ Climate+Weather
         
 * |OK_ICON| `Climate Data from UEA (updated monthly) <http://www.cru.uea.ac.uk/data/>`_
         
+* |OK_ICON| `Dutch Weather - The KNMI Data Center (KDC) portal provides access to KNMI [...] <https://data.knmi.nl/datasets>`_
+        
 * |OK_ICON| `European Climate Assessment & Dataset <https://www.ecad.eu/>`_
         
 * |OK_ICON| `Global Climate Data Since 1929 <http://en.tutiempo.net/climate>`_
@@ -193,7 +195,7 @@ ComplexNetworks
         
 * |OK_ICON| `Stanford Large Network Dataset Collection <http://snap.stanford.edu/data/>`_
         
-* |OK_ICON| `Stanford Longitudinal Network Data Sources <http://stanford.edu/group/sonia/dataSources/index.html>`_
+* |FIXME_ICON| `Stanford Longitudinal Network Data Sources <http://stanford.edu/group/sonia/dataSources/index.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Stanford-Longitudinal-Network-Data-Sources.yml>`_]
         
 * |OK_ICON| `The Koblenz Network Collection <http://konect.uni-koblenz.de/>`_
         
@@ -317,7 +319,7 @@ Economics
         
 * |OK_ICON| `Joint External Debt Data Hub <http://www.jedh.org/>`_
         
-* |OK_ICON| `Jon Haveman International Trade Data Links <http://www.macalester.edu/research/economics/PAGE/HAVEMAN/Trade.Resources/TradeData.html>`_
+* |FIXME_ICON| `Jon Haveman International Trade Data Links <http://www.macalester.edu/research/economics/PAGE/HAVEMAN/Trade.Resources/TradeData.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Jon-Haveman-International-Trade-Data-Links.yml>`_]
         
 * |OK_ICON| `OpenCorporates Database of Companies in the World <https://opencorporates.com/>`_
         
@@ -347,7 +349,7 @@ Energy
         
 * |OK_ICON| `AMPds <http://ampds.org/>`_
         
-* |FIXME_ICON| `BLUEd <http://nilm.cmubi.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Energy/BLUEd.yml>`_]
+* |OK_ICON| `BLUEd <http://nilm.cmubi.org/>`_
         
 * |OK_ICON| `COMBED <http://combed.github.io/>`_
         
@@ -443,7 +445,7 @@ GIS
         
 * |OK_ICON| `Robin Wilson - Free GIS Datasets <http://freegisdata.rtwilson.com>`_
         
-* |FIXME_ICON| `TIGER/Line - U.S. boundaries and roads <https://www.census.gov/geo/maps-data/data/tiger-line.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//GIS/TIGER-Line.yml>`_]
+* |OK_ICON| `TIGER/Line - U.S. boundaries and roads <https://www.census.gov/geo/maps-data/data/tiger-line.html>`_
         
 * |OK_ICON| `TZ Timezones shapfiles <http://efele.net/maps/tz/world/>`_
         
@@ -624,7 +626,7 @@ Government
         
 * |OK_ICON| `San Diego, CA <https://data.sandiego.gov>`_
         
-* |OK_ICON| `San Antonio, TX - Community Information Now - CI:Now is a nonprofit [...] <http://cinow.info/>`_
+* |FIXME_ICON| `San Antonio, TX - Community Information Now - CI:Now is a nonprofit [...] <http://cinow.info/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/San-Antonio-TX-US-Community-Information-Now.yml>`_]
         
 * |OK_ICON| `San Francisco Data sets <http://datasf.org/>`_
         
@@ -750,13 +752,15 @@ ImageProcessing
         
 * |OK_ICON| `Animals with attributes <http://attributes.kyb.tuebingen.mpg.de/>`_
         
+* |OK_ICON| `CADDY Underwater Stereo-Vision Dataset of divers' hand gestures - [...] <http://caddy-underwater-datasets.ge.issia.cnr.it/>`_
+        
 * |OK_ICON| `Caltech Pedestrian Detection Benchmark <http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/>`_
         
 * |OK_ICON| `Chars74K dataset - Character Recognition in Natural Images (both English [...] <http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/>`_
         
 * |OK_ICON| `Danbooru Tagged Anime Illustration Dataset - A large-scale anime image [...] <https://www.gwern.net/Danbooru>`_
         
-* |OK_ICON| `DukeMTMC Data Set - DukeMTMC aims to accelerate advances in multi-target [...] <http://vision.cs.duke.edu/DukeMTMC/>`_
+* |FIXME_ICON| `DukeMTMC Data Set - DukeMTMC aims to accelerate advances in multi-target [...] <http://vision.cs.duke.edu/DukeMTMC/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/DukeMTMC-Data-Set.yml>`_]
         
 * |OK_ICON| `Face Recognition Benchmark <http://www.face-rec.org/databases/>`_
         
@@ -779,6 +783,8 @@ ImageProcessing
 * |OK_ICON| `MNIST database of handwritten digits, near 1 million examples <http://yann.lecun.com/exdb/mnist/>`_
         
 * |OK_ICON| `Massive Visual Memory Stimuli, MIT <http://cvcl.mit.edu/MM/stimuli.html>`_
+        
+* |OK_ICON| `Open Images From Google - Pictures with segmentation masks for 2.8 [...] <https://storage.googleapis.com/openimages/web/download.html>`_
         
 * |OK_ICON| `SUN database, MIT <http://groups.csail.mit.edu/vision/SUN/hierarchy.html>`_
         
@@ -817,7 +823,7 @@ MachineLearning
         
 * |OK_ICON| `Lending Club Loan Data <https://www.lendingclub.com/info/download-data.action>`_
         
-* |OK_ICON| `Machine Learning Data Set Repository <http://mldata.org/>`_
+* |FIXME_ICON| `Machine Learning Data Set Repository <http://mldata.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Machine-Learning-Data-Set-Repository.yml>`_]
         
 * |OK_ICON| `Million Song Dataset <http://labrosa.ee.columbia.edu/millionsong/>`_
         
@@ -835,7 +841,7 @@ MachineLearning
         
 * |OK_ICON| `UCI Machine Learning Repository <http://archive.ics.uci.edu/ml/>`_
         
-* |FIXME_ICON| `Yahoo! Ratings and Classification Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=r>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Yahoo-Ratings-and-Classification-Data.yml>`_]
+* |OK_ICON| `Yahoo! Ratings and Classification Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=r>`_
         
 * |OK_ICON| `YouTube-BoundingBoxes <https://research.google.com/youtube-bb/>`_
         
@@ -1094,7 +1100,7 @@ PublicDomains
         
 * |OK_ICON| `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_
         
-* |FIXME_ICON| `Data.World <https://data.world>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data.World.yml>`_]
+* |OK_ICON| `Data.World <https://data.world>`_
         
 * |FIXME_ICON| `Data360 <http://www.data360.org/index.aspx>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data360.yml>`_]
         
@@ -1136,7 +1142,7 @@ PublicDomains
         
 * |OK_ICON| `Wikileaks 911 pager intercepts <https://911.wikileaks.org/files/index.html>`_
         
-* |FIXME_ICON| `Yahoo Webscope <http://webscope.sandbox.yahoo.com/catalog.php>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Yahoo-Webscope.yml>`_]
+* |OK_ICON| `Yahoo Webscope <http://webscope.sandbox.yahoo.com/catalog.php>`_
     
 SearchEngines
 -------------
@@ -1212,9 +1218,9 @@ SocialNetworks
         
 * |OK_ICON| `UNIMI/LAW Social Network Datasets <http://law.di.unimi.it/datasets.php>`_
         
-* |FIXME_ICON| `Yahoo! Graph and Social Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=g>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Yahoo-Graph-and-Social-Data.yml>`_]
+* |OK_ICON| `Yahoo! Graph and Social Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=g>`_
         
-* |OK_ICON| `Youtube Video Social Graph in 2007,2008 <http://netsg.cs.sfu.ca/youtubedata/>`_
+* |FIXME_ICON| `Youtube Video Social Graph in 2007,2008 <http://netsg.cs.sfu.ca/youtubedata/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Youtube-Video-Social-Graph-in-2007~2008.yml>`_]
     
 SocialSciences
 --------------
@@ -1370,6 +1376,8 @@ Transportation
 * |OK_ICON| `Ford GoBike Data (formerly Bay Area Bike Share Data) <https://www.fordgobike.com/system-data>`_
         
 * |OK_ICON| `Bike Share Systems (BSS) collection <https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems>`_
+        
+* |OK_ICON| `Dutch Traffic Information <https://www.ndw.nu/en/>`_
         
 * |OK_ICON| `GeoLife GPS Trajectory from Microsoft Research <http://research.microsoft.com/en-us/downloads/b16d359d-d164-469e-9fd4-daa38f2b2e13/>`_
         
